@@ -8,6 +8,6 @@ import sitemap from '@astrojs/sitemap';
 import icon from 'astro-icon';
 
 export default defineConfig({
-  site: 'https://ami-avk.github.io',
+  site: 'https://q-li.ru',
   integrations: [tailwind(), sitemap(), icon()]
 })
